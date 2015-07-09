@@ -82,7 +82,7 @@ You can reach me at [ronan_mccabe at hotmail dot com].
 
 [ronan_mccabe at hotmail dot com]: mailto:ronan_mccabe@hotmail.com
 
-[ronanmccabe.me]: http://ronanmccabe.me/
+[ronanmccabe.me]: http://www.ronanmccabe.me/
 [Dark]: http://darkapp.herokuapp.com/
 [Uncrossword]: http://uncrossword.herokuapp.com/
 [Canary]: http://canaryapp.herokuapp.com/
