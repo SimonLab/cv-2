@@ -8,7 +8,7 @@ Code Examples
 
 | [ronanmccabe.me]                     | [GitHub](https://github.com/wallcrawler/home)                 |
 |--------------------------------------|------------------------------------|
-My personal website with some JavaScript web apps. Key technologies used are client-side JavaScript, jQuery, CSS, error handling and high test coverage.
+My personal website with some JavaScript web apps. Key technologies used are client-side JavaScript, jQuery, CSS, error handling, high test coverage and cookie-based analytics. There is also an analytics page built in Angular.js that displays all visitor statistics.
 
 | [Canary]                             | [GitHub](https://github.com/jmnr/canary)                      |
 |--------------------------------------|------------------------------------|
@@ -35,6 +35,7 @@ I love writing clean, well-structured and tested code, and especially enjoy work
 * **Hapi.js**
 * **Version control with git and GitHub**
 * **Redis**
+* Angular.js
 * Test Driven Development with Lab and Shot
 * User stories with Pivotal Tracker
 * Deploying to Heroku
