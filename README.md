@@ -16,7 +16,7 @@ This is a Twitter clone with Redis database backup, username support, cookie bas
 
 | [Uncrossword]                        | [GitHub](https://github.com/jmnr/scrabble)                   |
 |--------------------------------------|------------------------------------|
-This is a crossword solving app with integrated content from the Wiktionary and Twitter APIs.
+This is a crossword solving app with integrated content from the Wiktionary and Twitter APIs. Currently being rebuilt in Meteor.
 
 | [Dark]                               | [GitHub](https://github.com/jmnr/dark)                    |
 |--------------------------------------|------------------------------------|
@@ -36,6 +36,7 @@ I love writing clean, well-structured and tested code, and especially enjoy work
 * **Version control with git and GitHub**
 * **Redis**
 * Angular.js
+* Meteor
 * Test Driven Development with Lab and Shot
 * User stories with Pivotal Tracker
 * Deploying to Heroku
