@@ -25,7 +25,7 @@ This is a possibly overambitious Instagram clone that is still a work in progres
 Development Style
 --------------------
 
-I love writing clean, well-structured and tested code, and especially enjoy working with new technologies and frameworks.
+I love writing clean, well-structured and tested code, and especially enjoy working with new technologies and frameworks. I use Linux day to day for development but am familiar with the Mac interface.
 
 ### Skills
 (Strong skills in bold)
@@ -74,7 +74,7 @@ About Me
 
 I am 27 years old, and from Ireland. After a lifelong interest in tech and computers, I started coding about a year ago. I quickly became infatuated with it and knew I needed to do it for a living. My original plan was to leave Melbourne, Australia where I was living and return to Ireland to build a portfolio in Java, but I heard about Founders & Coders and my plans took a turn towards London, and JavaScript.
 
-In my spare time I enjoy cooking and keeping fit and past/current hobbies include snowboarding, cycling, performing stand-up comedy and Brazilian Jiu Jitsu.
+In my spare time I enjoy cooking (slow cooker!), keeping fit and past/current hobbies include snowboarding, cycling, performing stand-up comedy and Brazilian Jiu Jitsu.
 
 Contact
 ------
