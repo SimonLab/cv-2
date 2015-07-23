@@ -8,19 +8,19 @@ Code Examples
 
 | [ronanmccabe.me]                     | [GitHub](https://github.com/wallcrawler/home)                 |
 |--------------------------------------|------------------------------------|
-My personal website with some JavaScript web apps. Key technologies used are client-side JavaScript, jQuery, CSS, error handling, high test coverage and cookie-based analytics. There is also an analytics page built in Angular.js that displays all visitor statistics.
+My personal website with some JavaScript web apps. Key technologies used are client-side JavaScript, jQuery, CSS, error handling, geolocation, high test coverage and cookie-based analytics. There is also an analytics page built in Angular.js that displays all visitor statistics.
+
+| [Dark]                               | [GitHub](https://github.com/jmnr/dark)                    |
+|--------------------------------------|------------------------------------|
+This is a simple Instagram clone (with a twist!) that is still a work in progress, and uses image upload to Amazon Web Services, Google Authentication based user profiles and Redis database for storing image metadata.
 
 | [Canary]                             | [GitHub](https://github.com/jmnr/canary)                      |
 |--------------------------------------|------------------------------------|
-This is a Twitter clone with Redis database backup, username support, cookie based deletion and location services.
+This is a Twitter clone with Redis database backup, username support, cookie based deletion and geolocation services.
 
 | [Uncrossword]                        | [GitHub](https://github.com/jmnr/scrabble)                   |
 |--------------------------------------|------------------------------------|
 This is a crossword solving app with integrated content from the Wiktionary and Twitter APIs. Currently being rebuilt in Meteor.
-
-| [Dark]                               | [GitHub](https://github.com/jmnr/dark)                    |
-|--------------------------------------|------------------------------------|
-This is a possibly overambitious Instagram clone that is still a work in progress, and uses image upload to Amazon Web Services, Google Authentication based user profiles and Redis database for storing image metadata.
 
 Development Style
 --------------------
